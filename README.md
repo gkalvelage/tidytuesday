@@ -6,7 +6,7 @@ So far I've made the following contributions:
 
 | # | Name | Released | Published | Tweet
 | :--- | :--- | :--- | :--- | :---
-| 1 | Meteorite Impacts | 2019-06-11 | 2019-06-16 | https://twitter.com/gkalvelage/status/xxx
+| 1 | Meteorite Impacts | 2019-06-11 | 2019-06-16 | https://twitter.com/g_kalvelage/status/1140358497021943809
 
 ## 1 Meteorite Impacts in Europe
 
