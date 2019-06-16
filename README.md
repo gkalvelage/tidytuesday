@@ -10,4 +10,4 @@ So far I've made the following contributions:
 
 ## 1 Meteorite Impacts in Europe
 
-![![meteorites](https://github.com/gkalvelage/tidytuesday/blob/master/figures/2019-06-11_meteorites_map.png.png)
+![meteorites](https://github.com/gkalvelage/tidytuesday/blob/master/figures/2019-06-11_meteorites_map.png)
